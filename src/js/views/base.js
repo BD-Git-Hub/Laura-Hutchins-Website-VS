@@ -32,7 +32,6 @@ export const elements = {
     galleryDivEnlargedImgDivImg: document.querySelector('.galleryDiv__enlargedImgDiv__img'),
     galleryDivElargedImgDivI: document.querySelectorAll('.galleryDiv__enlargedImgDiv__i'),
     
-
     galleryDivImgDiv: document.getElementsByClassName('galleryDiv__imgDiv'),
 
     sectionCentered: document.querySelector('.section__centered'),

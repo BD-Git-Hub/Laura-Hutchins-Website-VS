@@ -14,6 +14,7 @@ module.exports = {
         new HTMLWebpackPlugin({
             filename: 'index.html',
             template: './src/index.html',
+            minify: false
         }) //creates a final index.html with bundle.js scripted to it in dist using pluggin.
     ],
     module: {
